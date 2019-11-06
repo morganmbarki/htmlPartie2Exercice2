@@ -1,0 +1,13 @@
+#title {
+  text-align:center;
+  font-weight:bold;
+}
+.redText {
+  color:#ff0000;
+}
+.greenText {
+  color:#008800;
+}
+.italic {
+  font-style: italic;
+}
